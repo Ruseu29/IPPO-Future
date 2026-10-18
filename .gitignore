@@ -1,0 +1,5 @@
+*.zip
+*.exe
+学習ログ/
+settings.json
+output/
