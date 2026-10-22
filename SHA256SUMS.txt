@@ -1,1 +1,3 @@
 1642fa53c8103ce95545ef70efb0fcdc299b30dc2fb5c8c92d1e8db8e170ad84  IPPOFuture_0.1.0-preview.2_windows-x64.zip
+af245666ea913ce103563b2452870d3a18fa29651ea7f197861f551e7297a59b  IPPOFuture_0.1.0-preview.15_windows-x64.zip
+110d827247bf3c135fac5a63cc597b8f3d55d0f1823790b1687615503745b023  IPPOFuture_0.1.0-preview.15_from_0.1.0-preview.2_windows-x64_patch.zip
