@@ -3,3 +3,6 @@
 学習ログ/
 settings.json
 output/
+
+# Local pending-update notes; never publish personal drafts.
+/暫定更新欄.md
