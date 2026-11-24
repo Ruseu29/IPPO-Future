@@ -21,8 +21,8 @@
 
 容量目安：ダウンロード約14 MB／展開後約35 MB。メモリ約120 MB（短時間計測の参考値）。設定・ログは別途増えます。
 
-**[Mac版をダウンロード（Preview 0.1.6・DMG）](https://github.com/Ruseu29/IPPO-Future/releases/download/mac-preview-v0.1.6/IPPO-Mac-Preview-0.1.6-arm64.dmg)**
-Mac版は従来名「IPPO Future」で提供しています。Appleシリコン（Mシリーズ）専用。初回の導入・権限設定は[Mac版のリリース案内](https://github.com/Ruseu29/IPPO-Future/releases/tag/mac-preview-v0.1.6)をご覧ください。
+**[Mac版をダウンロード（Preview 0.1.11・DMG）](https://github.com/Ruseu29/IPPO-Future/releases/download/mac-preview-v0.1.11/RollDuck-Mac-0.1.11-arm64.dmg)**
+Mac版のアプリ名も「RollDuck」です。Appleシリコン（Mシリーズ）専用。初回の導入・権限設定は[Mac版のリリース案内](https://github.com/Ruseu29/IPPO-Future/releases/tag/mac-preview-v0.1.11)をご覧ください。
 
 [変更点・旧版はこちら](https://github.com/Ruseu29/IPPO-Future/releases)
 
@@ -115,7 +115,7 @@ Mac版は従来名「IPPO Future」で提供しています。Appleシリコン�
 
 ### Macでは使える？
 
-Appleシリコン向けの **Mac Preview 0.1.6** を試用できます。インストールや権限設定は、DMG内の「00 最初に開く.html」とアプリ内の「初回セットアップ」で案内しています。GitHub上の詳しい説明はまだ整備途中ですが、[リリース案内](https://github.com/Ruseu29/IPPO-Future/releases/tag/mac-preview-v0.1.6)に初回手順と更新時の注意をまとめています。Apple未公証のため初回起動時に確認が必要です。Intel Macには対応していません。
+Appleシリコン向けの **Mac Preview 0.1.11** を試用できます。インストールや権限設定は、DMG内の「00 最初に開く.html」とアプリ内の「Mac設定」で案内しています。[リリース案内](https://github.com/Ruseu29/IPPO-Future/releases/tag/mac-preview-v0.1.11)に初回手順と更新時の注意をまとめています。Apple未公証のため初回起動時に確認が必要です。Intel Macには対応していません。
 
 ### 更新通知
 

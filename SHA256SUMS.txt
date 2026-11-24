@@ -8,3 +8,4 @@ e420b91327fef41b91c90b1baafbb58cb7b66a2ecf07dfc2936c9c64345cb319  IPPOFuture-ver
 264c66beb32d1fdff17b148dbe59dbc6c322383a20c14addcca4469cac112f84  RollDuck-v4-Setup-before-megaphone.exe
 f7459dae45b6ef1995e307b0c6dfab8ca2a1e5ea96cb8d4ad8d2123035d6ecc1  RollDuck-v4-Setup.exe
 b4956f22a1fa8f4f4b195644dc60577da968991452c633841c47dc160235ed22  RollDuck-v5-Setup.exe
+e3509d17f0fbdeaab8e1e92c1f825c035f756f9af020dac3327ee7f84d7eac8e  RollDuck-Mac-0.1.11-arm64.dmg
